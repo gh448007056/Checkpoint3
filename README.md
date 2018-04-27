@@ -1,7 +1,16 @@
 # Checkpoint3
 
 
-Description
+Describe the table or tables and its columns and what each column means
+
+The tables explain demographics of the different amount of checkouts from different types of people and libraries.  
+The column 
+“patron_type_definition” - decribes whether they are an adult, senior, junior, staff, etc. “Total_checkouts”-  shows the amount this person checked out books in the SF libraries. “Total_renewals” - show the amount of times they renewed. The “age-range” shows what their age is approximately. 
+“Home_library_definition” - shows where their home library in SF is.
+ “circulation_active-month”-  shows the month they checked  out  the book  from the sf library.  “circulation year”-  shows the year that the book was checked out  from the sf libraries. 
+“notice_preference-definition”-  means whether they want their notification in email, print, or  phone call. 
+“year-patron registered” - means the year they registered as a member of the SF libraries. 
+
 
 
 Question 1:
